@@ -17,16 +17,14 @@ Here are some ideas to get you started:
 
 ## About 😊
 
-<div align="center">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-</div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=re20051&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <br>
 
 ## Metrics 👣
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Uzemiu&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=re20051&theme=dark&hide_border=true" />
 </div>
 <br>
 
