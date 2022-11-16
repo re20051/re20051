@@ -15,7 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=re20051&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+## About 😊
 
+<div align="center">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+</div>
+<br>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=re20051" /> </div>
+## Metrics 👣
+
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Uzemiu&theme=dark&hide_border=true" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://api.githubtrends.io/user/svg/re20051/langs?time_range=one_year&include_private=true&theme=classic" alt="Most Used Languages" width="300" />
+  <img src="https://api.githubtrends.io/user/svg/re20051/repos?time_range=one_month&theme=classic" alt="Most Contributed Repositories" width="300" />
+</div>
+<br>
+
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Uzemiu&theme=nord&row=1&column=7&no-frame=true&no-bg=true" /></div>
