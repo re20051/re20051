@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Uzemiu&theme=nord&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=re20051&theme=nord&row=1&column=7&no-frame=true&no-bg=true" /></div>
