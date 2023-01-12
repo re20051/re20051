@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About 😊
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=re20051&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-<br>
+<div align="center"> <img src="https://metrics.lecoq.io/re20051?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 ## Metrics 👣
 
